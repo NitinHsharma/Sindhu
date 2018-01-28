@@ -1,0 +1,25 @@
+﻿body {
+}
+.nav-link
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    margin: 0;
+    padding: 12px;
+    position: relative;
+    cursor: pointer;
+}
+
+    .hovered
+    {
+        color:#5bc199;
+    }
+
+
+    .navbar .navbar-nav .navbar-text> li > a:hover {
+    color: red;
+   
+}
