@@ -1,25 +1,6 @@
-﻿body {
-}
-.nav-link
+﻿.navbar
 {
-    text-decoration: none;
-    text-transform: uppercase;
-    float: left;
-    text-align: center;
-    font-size: 13px;
-    margin: 0;
-    padding: 12px;
-    position: relative;
-    cursor: pointer;
+    background-color: #2fa4e7;
+    color: #2fa4e7;
 }
 
-    .hovered
-    {
-        color:#5bc199;
-    }
-
-
-    .navbar .navbar-nav .navbar-text> li > a:hover {
-    color: red;
-   
-}
